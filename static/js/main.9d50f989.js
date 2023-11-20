@@ -22816,11 +22816,11 @@
         )), sn = an(rn)(nn || (nn = e(["\n  margin-top: 5px;\n  padding: 13px 19px;\n  font-size: 19px;\n  width: 100%;\n  line-height: 1;\n  text-transform: none;\n"]))), cn = (an(ln)(tn || (tn = e(["\n  margin-top: 5px;\n  background: #fff;\n  padding: 13px 19px;\n  font-size: 19px;\n  width: 100%;\n  line-height: 1;\n  text-transform: none;\n"]))),
         function(e) {
             var t = e.url
-              , a = void 0 === t ? "https://spiralbetty.com" : t
+              , a = void 0 === t ? "https://spiral.cecilee.site" : t
               , r = e.email
-              , i = void 0 === r ? "hi.spiralbetty@gmail.com" : r
+              , i = void 0 === r ? "yshaff040302@gmail.com" : r
               , o = e.name
-              , l = void 0 === o ? "Spiral Betty" : o
+              , l = void 0 === o ? "Spiral Cecile" : o
               , s = g()
               , c = s.isInApp
               , u = s.androidInApp
@@ -22857,7 +22857,7 @@
                             },
                             href: b(a),
                             target: "_blank",
-                            children: "Open Spiral Betty \u2192"
+                            children: "Open Spiral Cecile \u2192"
                         })
                     })]
                 })
@@ -24115,7 +24115,7 @@
               , s = o.type
               , c = o.quality
               , u = new Date
-              , d = "spiralbetty_".concat(u.getTime(), ".").concat(l);
+              , d = "spiralcecile_".concat(u.getTime(), ".").concat(l);
             if ("svg" !== n)
                 document.getElementById(ct).toBlob((function(e) {
                     pn().saveAs(e, d)
@@ -25263,7 +25263,7 @@
                                 children: ["Start a ", (0,
                                 v.jsx)("strong", {
                                     children: "brand new"
-                                }), ' Chrome or Safari browser and navigate to spiralbetty.com or search for "Spiral Betty" and retry from there.']
+                                }), ' Chrome or Safari browser and navigate to spiral.cecilee.site or search for "Spiral Cecile" and retry from there.']
                             }), (0,
                             v.jsx)("p", {
                                 style: {
@@ -25281,12 +25281,12 @@
                                 children: ["Email", " ", (0,
                                 v.jsx)(sa, {
                                     as: "a",
-                                    href: "mailto:hi".concat(o, "spiralbetty").concat("@", "g", "m", "ail").concat(o, "com", "?subject=Issues Downloading&body=Hi I'm having issues downloading Spiral Betty.%0D%0A%0D%0AInfo about my machine:%0D%0A").concat(window.navigator.userAgent),
-                                    children: "hi".concat(o, "spiralbetty").concat("@", "g", "m", "ail").concat(o, "com")
+                                    href: "mailto:hi".concat(o, "spiralcecile").concat("@", "g", "m", "ail").concat(o, "com", "?subject=Issues Downloading&body=Hi I'm having issues downloading Spiral Cecile.%0D%0A%0D%0AInfo about my machine:%0D%0A").concat(window.navigator.userAgent),
+                                    children: "hi".concat(o, "spiralcecile").concat("@", "g", "m", "ail").concat(o, "com")
                                 })]
                             }), (0,
                             v.jsx)("p", {
-                                children: "Use the email link above, it should have everything you need to contact Spiral Betty about downloading."
+                                children: "Use the email link above, it should have everything you need to contact Spiral Cecile about downloading."
                             }), (0,
                             v.jsx)("p", {
                                 children: "You may also copy and paste the User Agent (see below) into a new message describing your issue for support."
@@ -27097,12 +27097,12 @@
             icon: (0,
             v.jsx)(Fo, {}),
             name: "Facebook",
-            href: "https://www.facebook.com/SpiralBettyApp"
+            href: "https://www.facebook.com/ardian.ruhut"
         }, {
             icon: (0,
             v.jsx)(Oo, {}),
             name: "Instagram",
-            href: "https://www.instagram.com/spiralbetty/"
+            href: "https://www.instagram.com/yardanshaq/"
         }, {
             icon: (0,
             v.jsx)(No, {}),
@@ -27112,7 +27112,7 @@
             icon: (0,
             v.jsx)(jo, {}),
             name: "Twitter",
-            href: "https://twitter.com/SpiralBetty"
+            href: "https://twitter.com/yardanshaq"
         }], Uo = function(e) {
             var n = e.style
               , t = void 0 === n ? {} : n
@@ -27159,7 +27159,7 @@
             }))
         }, Vo = (0,
         v.jsxs)("span", {
-            children: ["hi.spiralbetty", (0,
+            children: ["hi.spiralcecile", (0,
             v.jsx)("span", {
                 children: "@"
             }), "gmail.com"]
@@ -27230,7 +27230,7 @@
                                 textDecoration: "none"
                             },
                             target: "blank",
-                            href: "https://www.buymeacoffee.com/shalanah/extras",
+                            href: "https://www.buymeacoffee.com/yardanshaq/extras",
                             children: "Commercial Options \u2794"
                         })
                     }), (0,
@@ -27243,7 +27243,7 @@
                             style: {
                                 marginBottom: "1rem"
                             },
-                            children: "Spiral Betty is inspired by the one-line engraving of Saint Veronica by Claude Mellan."
+                            children: "Spiral Cecile is inspired by the one-line engraving of Saint Veronica by Claude Mellan."
                         }), (0,
                         v.jsx)("p", {
                             style: {
@@ -27259,8 +27259,8 @@
                             target: "_blank",
                             rel: "noopener noreferrer"
                         }), {}, {
-                            title: "Support Betty",
-                            href: "https://www.buymeacoffee.com/shalanah",
+                            title: "Support Cecile",
+                            href: "https://www.buymeacoffee.com/yardanshaq",
                             children: [(0,
                             v.jsx)(Yo, {
                                 children: (0,
@@ -27272,7 +27272,7 @@
                                 })
                             }), (0,
                             v.jsx)(Qo, {
-                                children: "Support Betty"
+                                children: "Support Cecile"
                             })]
                         }))
                     }), (0,
@@ -27301,7 +27301,7 @@
                         style: {
                             marginBottom: 10
                         },
-                        children: ["Shalanah Dawson", " ", (0,
+                        children: ["Yardan Shaq", " ", (0,
                         v.jsx)("span", {
                             style: {
                                 whiteSpace: "nowrap"
@@ -27822,14 +27822,14 @@
                             return u(!0)
                         },
                         type: "subtle",
-                        title: "Support Betty",
+                        title: "Support Cecile",
                         children: "About"
                     }), (0,
                     v.jsxs)(kl, {
                         as: "a",
                         type: "subtle",
-                        title: "Support Betty",
-                        href: "https://www.buymeacoffee.com/shalanah",
+                        title: "Support Cecile",
+                        href: "https://www.buymeacoffee.com/yardanshaq",
                         target: "_blank",
                         children: [(0,
                         v.jsx)(Ji, {
@@ -27838,14 +27838,14 @@
                                 height: 18,
                                 marginRight: 4
                             }
-                        }), " Buy Betty a Coffee"]
+                        }), " Buy Cecile a Coffee"]
                     }), (0,
                     v.jsx)(kl, {
                         type: "subtle",
                         as: "a",
-                        title: "Support Betty",
+                        title: "Support Cecile",
                         target: "blank",
-                        href: "https://www.buymeacoffee.com/shalanah/extras",
+                        href: "https://www.buymeacoffee.com/yardanshaq/extras",
                         children: "Commercial Licensing"
                     })]
                 }), (0,
@@ -28107,11 +28107,11 @@
                                             margin: "0px auto 15px",
                                             maxWidth: 270
                                         },
-                                        children: "Keep Spiral Betty alive with\xa0your\xa0support."
+                                        children: "Keep Spiral Cecile alive with\xa0your\xa0support."
                                     }), (0,
                                     v.jsxs)(ln, {
                                         as: "a",
-                                        title: "Support Betty",
+                                        title: "Support Cecile",
                                         style: {
                                             display: "inline-flex",
                                             alignItems: "center",
@@ -28124,7 +28124,7 @@
                                             borderColor: "var(--accent)",
                                             boxShadow: "0 0 0 5px var(--highlight)"
                                         },
-                                        href: "https://www.buymeacoffee.com/shalanah",
+                                        href: "https://www.buymeacoffee.com/yardanshaq",
                                         target: "_blank",
                                         rel: "noopener noreferrer",
                                         children: [(0,
@@ -28134,7 +28134,7 @@
                                                 height: 20,
                                                 marginRight: 4
                                             }
-                                        }), " ", "Buy Betty a Coffee"]
+                                        }), " ", "Buy Cecile a Coffee"]
                                     })]
                                 })
                             }), !x && (0,
@@ -28145,7 +28145,7 @@
                                         margin: "12px auto 10px",
                                         maxWidth: 350
                                     },
-                                    children: ["It's always free to use Spiral Betty for", " ", (0,
+                                    children: ["It's always free to use Spiral Cecile for", " ", (0,
                                     v.jsx)("strong", {
                                         children: "personal"
                                     }), " (non-commercial) uses."]
@@ -28279,7 +28279,7 @@
                                 as: "a",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
-                                href: "https://www.buymeacoffee.com/shalanah/extras",
+                                href: "https://www.buymeacoffee.com/yardanshaq/extras",
                                 style: {
                                     marginTop: 10,
                                     display: "block",
@@ -28298,7 +28298,7 @@
                             },
                             children: (0,
                             v.jsx)(Uo, {
-                                email: "hi.spiralbetty@gmail.com"
+                                email: "yshaff040302@gmail.com"
                             })
                         })]
                     }))
@@ -28360,21 +28360,21 @@
                                 style: {
                                     marginTop: 20
                                 },
-                                children: "Betty likes you too!"
+                                children: "Cecile likes you too!"
                             }), (0,
                             v.jsx)("div", {
                                 style: {
                                     margin: "12px auto",
                                     maxWidth: 350
                                 },
-                                children: "Spread the love by purchasing Betty some coffee or commercial license."
+                                children: "Spread the love by purchasing Cecile some coffee or commercial license."
                             }), (0,
                             v.jsx)("div", {
                                 style: {
                                     margin: "12px auto",
                                     maxWidth: 350
                                 },
-                                children: "Thank you for your generosity and keeping Spiral Betty alive!"
+                                children: "Thank you for your generosity and keeping Spiral Cecile alive!"
                             }), (0,
                             v.jsxs)("div", {
                                 style: {
@@ -28386,8 +28386,8 @@
                                 children: [(0,
                                 v.jsxs)(es, {
                                     as: "a",
-                                    title: "Support Betty",
-                                    href: "https://www.buymeacoffee.com/shalanah",
+                                    title: "Support Cecile",
+                                    href: "https://www.buymeacoffee.com/yardanshaq",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     children: [(0,
@@ -28397,13 +28397,13 @@
                                             height: 20,
                                             marginRight: 4
                                         }
-                                    }), " ", "Buy Betty a Coffee"]
+                                    }), " ", "Buy Cecile a Coffee"]
                                 }), (0,
                                 v.jsx)(ns, {
                                     as: "a",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
-                                    href: "https://www.buymeacoffee.com/shalanah/extras",
+                                    href: "https://www.buymeacoffee.com/yardanshaq/extras",
                                     children: (0,
                                     v.jsx)("span", {
                                         children: "Commercial Licenses \u2794"
